@@ -1,4 +1,3 @@
-pages.directory-game-9b4cd7f072661b704ad9.js text/javascript
 !function() {
     try {
         var e = "undefined" != typeof window ? window : "undefined" != typeof global ? global : "undefined" != typeof self ? self : {},
